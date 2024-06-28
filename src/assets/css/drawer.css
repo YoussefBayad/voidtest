@@ -1,0 +1,22 @@
+.drawer-content-wrapper {
+  background-color: transparent;
+  background: transparent;
+}
+
+.drawer-content .css-vurnku a {
+  background-color: transparent;
+}
+
+#gradient-canvas-footer {
+  --gradient-color-1: #fff;
+  --gradient-color-2: #7a00e6;
+  --gradient-color-3: #7a00e6;
+  --gradient-color-4: #7a00e6;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+::selection {
+  background: #7a00e6;
+}
